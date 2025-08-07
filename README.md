@@ -6,15 +6,6 @@ The goal of this task was to develop a simple **Library Management System** usin
 
 ---
 
-## 🛠 Tools & Technologies
-
-- **Java** (JDK 8+)
-- **VS Code**
-- **Command Line / Terminal**
-- **Git & GitHub** (for version control and submission)
-
----
-
 ## 🧩 Key Concepts Used
 
 - **Abstraction**
@@ -58,5 +49,4 @@ The goal of this task was to develop a simple **Library Management System** usin
 
 ---
 
-## 📁 Project Structure
 
