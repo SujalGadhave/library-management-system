@@ -1,18 +1,62 @@
-# library-management-system
+# 📚 Library Management System - OOP Mini Project
 
-What is this project?
-This is a simple Library Management System built with Java that helps you understand the 4 main concepts of Object-Oriented Programming (OOP):
+## 📝 Objective
 
-Encapsulation - Hiding data inside classes
-Inheritance - Creating new classes from existing ones
-Polymorphism - Same method, different behavior
-Abstraction - Hiding complex details
+The goal of this task was to develop a simple **Library Management System** using **Java** and **Object-Oriented Programming (OOP)** principles. The system allows managing books and users, including book issue and return functionalities.
 
-What can this system do?
-✅ Add books to library
-✅ Add students and teachers as users
-✅ Issue books to users
-✅ Return books
-✅ Search for books
-✅ Show all books and users
-✅ Different limits for students (3 books) and teachers (5 books)
+---
+
+## 🛠 Tools & Technologies
+
+- **Java** (JDK 8+)
+- **VS Code**
+- **Command Line / Terminal**
+- **Git & GitHub** (for version control and submission)
+
+---
+
+## 🧩 Key Concepts Used
+
+- **Abstraction**
+- **Inheritance**
+- **Polymorphism**
+- **Encapsulation**
+- **IS-A / HAS-A relationships**
+- **Constructor Chaining**
+- **Method Overriding**
+- **Dynamic Binding**
+- **Super Keyword**
+
+---
+
+## 🔨 Implementation Steps
+
+1. **Created Classes**:
+   - `Book`: Represents a book with attributes like title, author, and availability.
+   - `User`: Represents a library user with user details and borrowed books.
+   - `Library`: Handles the logic for issuing and returning books, and storing the collection.
+
+2. **Implemented Functionalities**:
+   - Add new books to the library.
+   - Register new users.
+   - Issue a book to a user.
+   - Return a book to the library.
+   - Display available and issued books.
+
+3. **Followed OOP Design**:
+   - Used constructors, getters/setters, and lists to manage entities.
+   - Encapsulated data and logic inside appropriate classes.
+   - Used inheritance where applicable to demonstrate IS-A relationships.
+
+---
+
+## 🧠 Learning Outcome
+
+- Reinforced the core principles of OOP through hands-on practice.
+- Learned how to structure a multi-class Java project.
+- Practiced using Git and GitHub for project management and submission.
+
+---
+
+## 📁 Project Structure
+
